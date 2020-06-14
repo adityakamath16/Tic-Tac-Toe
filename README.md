@@ -13,7 +13,7 @@ Play the best classic hit tic tac toe, with your friends and family. A multiplay
 
 
 <a href="https://play.google.com/store/apps/details?id=com.args.TicTacToe" id="bottle" onclick="document.location=this.id+'.html';return false;" >
-    <img width="100" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/en_badge_web_generic.png?alt=media&token=9d93e00e-1ccf-4758-8d9f-c4ffc9c3fa73" />
+    <img width="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/en_badge_web_generic.png?alt=media&token=9d93e00e-1ccf-4758-8d9f-c4ffc9c3fa73" />
 </a>
 
 <p></p>
