@@ -10,13 +10,13 @@ Play the best classic hit tic tac toe, with your friends and family. A multiplay
   
   <div class="row">
   <div class="column">
-    <img height="500" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fcoloured%20tic%20tac%20toe.jpg?alt=media&token=602d6b90-5234-4e2a-9221-1ad346183081" alt="Snow" style="width:100%"></img>
+    <img height="350" width="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fcoloured%20tic%20tac%20toe.jpg?alt=media&token=602d6b90-5234-4e2a-9221-1ad346183081" alt="Snow" style="width:100%"></img>
   </div>
   <div class="column">
-    <img height="500" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fdarkmode.jpg?alt=media&token=e60a206f-7cc2-4e98-93ad-942e2d6d0ef5" alt="Forest" style="width:100%"></img>
+    <img height="350" width="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fdarkmode.jpg?alt=media&token=e60a206f-7cc2-4e98-93ad-942e2d6d0ef5" alt="Forest" style="width:100%"></img>
   </div>
   <div class="column">
-    <img height="500"src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Ffixed.jpg?alt=media&token=ce7ce9b4-9944-41e9-ad12-8b7f74d9e671" alt="Mountains" style="width:100%"></img>
+    <img height="350" width="200"src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Ffixed.jpg?alt=media&token=ce7ce9b4-9944-41e9-ad12-8b7f74d9e671" alt="Mountains" style="width:100%"></img>
   </div>
 </div>
 <p></p>
