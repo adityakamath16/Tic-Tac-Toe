@@ -8,7 +8,7 @@ Play the best classic hit tic tac toe, with your friends and family. A multiplay
   <center><h1><b>SCREENSHOTS :</b></h1></center>
   
   
-  <div class="row">
+  <div class="column">
   <div class="row">
     <img height="350" width="200" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fcoloured%20tic%20tac%20toe.jpg?alt=media&token=602d6b90-5234-4e2a-9221-1ad346183081" alt="Snow" style="width:100%"></img>
   </div>
