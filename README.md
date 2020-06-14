@@ -10,9 +10,9 @@ Play the best classic hit tic tac toe, with your friends and family. A multiplay
  
 
 <p float="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fcoloured%20tic%20tac%20toe.jpg?alt=media&token=602d6b90-5234-4e2a-9221-1ad346183081" width="100" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fdarkmode.jpg?alt=media&token=e60a206f-7cc2-4e98-93ad-942e2d6d0ef5" width="100" /> 
-  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Ffixed.jpg?alt=media&token=ce7ce9b4-9944-41e9-ad12-8b7f74d9e671" width="100" />
+  <img width="175" height="250" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fcoloured%20tic%20tac%20toe.jpg?alt=media&token=602d6b90-5234-4e2a-9221-1ad346183081" width="100" />
+  <img width="175" height="250" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Fdarkmode.jpg?alt=media&token=e60a206f-7cc2-4e98-93ad-942e2d6d0ef5" width="100" /> 
+  <img width="175" height="250" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/TicTacToe%2Fscreenshots%2Ffixed.jpg?alt=media&token=ce7ce9b4-9944-41e9-ad12-8b7f74d9e671" width="100" />
 </p>
 <p></p>
 <p></p>
